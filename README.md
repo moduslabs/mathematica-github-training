@@ -1,2 +1,2 @@
-# pnikov-github-training
+# mathematica-github-training
 Used for Mathematica GitHub training sessions
